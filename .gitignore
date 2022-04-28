@@ -21,3 +21,11 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+.idea
+*.zip
+*.gz
+*.tar
+wp-config.php*
+licen*
+readme.html
